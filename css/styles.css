@@ -521,14 +521,14 @@ input[type='checkbox'] {
 .header {
 	padding-top: 7rem;
 	padding-bottom: 5.5rem;
-	background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/header-background.jpg') center center no-repeat;
-	background-size: cover;
+	background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/header-background.jpg') right center no-repeat;
+	background-size:auto;
 	text-align: center;
 }
 
 .header .h1-large {
 	margin-bottom: 1.75rem;
-	color: #ffffff;
+	color: #284d69;
 }
 
 .header .btn-solid-lg:hover {
@@ -620,8 +620,8 @@ input[type='checkbox'] {
 /*******************/
 .split .area-1 {
 	height: 430px;
-	background: linear-gradient(to bottom right, rgba(25, 26, 29, 0.5), rgba(25, 26, 29, 0.5)), url('../images/details-background.jpg') center center no-repeat;
-	background-size: cover;
+	background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.5), rgba(25, 26, 29, 0.5)), url('https://cdn.discordapp.com/attachments/736115813257314305/977889711286808616/IMG-851eda88ae7789f8fd7ec8bf11f68da2-V.jpg') center center no-repeat;
+	background-size: auto;
 }
 
 .split .area-2 {
